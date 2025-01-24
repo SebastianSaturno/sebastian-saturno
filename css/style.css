@@ -1,0 +1,21 @@
+/*selector /etiqueta {
+    propiedad: valor;
+}
+
+/*
+ORDEN JERARQUICO::after
+
+!import = no importa que, lo aplica sin criterio alguno.
+id      = Clasificación única e irrepetible en el doc. (ej: dni- patente - imei)
+id      = ESTRUCTURAS PRINCIPALES O TRONCALES DEL DOC.
+class   = Clasificación que podemos repetir en el doc. (ej: cajas - estilos)
+selectores / etiquetas*/
+
+
+/*ESTILOS HEADER*/
+
+
+/*ESTILOS MAIN*/
+
+
+/*ESTILOS FOOTER*/
