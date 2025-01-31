@@ -18,7 +18,7 @@ selectores / etiquetas*/
     box-sizing: border-box;
     scroll-behavior: smooth;
     font-family: "Poppins";
-    color: beige;
+    color: rgb(226, 226, 132);
 }
 
 #main {
@@ -46,6 +46,9 @@ a {
 }
 #bodyIndex {
     background-color: rgb(71, 59, 83);
+}
+h2 {
+    font-size: 20px;
 }
 
 /*ESTILOS HEADER*/
@@ -80,6 +83,13 @@ img{
     width: 300px;
 }
 
+.services {
+    text-align: center;
+
+}
+
+video {
+    width: 100%;}
 /*ESTILOS FOOTER*/
 #footer{
     margin-top: auto;
@@ -101,16 +111,20 @@ img{
     flex-direction: column;
     text-align: center;
     row-gap: 20px;
-    
+    font-size: 15px;
 }
-
-.footerNav-copy {
+a{
+    color: rgb(223, 230, 237)
+}
+.footer-copy {
     color: rgba(255, 255, 255, 0.81);
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .footerRedes i {
     color: white;
     font-size: 20px;
 }
-
+h3{
+    font-size: 14px;
+}
