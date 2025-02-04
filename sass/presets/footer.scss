@@ -1,0 +1,38 @@
+/*ESTILOS FOOTER*/
+#footer{
+    margin-top: auto;
+    width: 100%;
+    height: 240px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#footer img {
+    width: 120px;
+    height: 77px;
+} 
+
+.footerNav {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    row-gap: 20px;
+    font-size: 15px;
+}
+a{
+    color: rgb(223, 230, 237)
+}
+.footer-copy {
+    color: rgba(255, 255, 255, 0.81);
+    font-size: 15px;
+}
+
+.footerRedes i {
+    color: white;
+    font-size: 20px;
+}
+h3{
+    font-size: 14px;
+}
